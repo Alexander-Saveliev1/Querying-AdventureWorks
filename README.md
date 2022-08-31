@@ -1,2 +1,3 @@
 # Querying-AdventureWorks
-School Project, Using Transact-SQL to Query the AdventureWorks2019 Database and more
+First School Project, Using Transact-SQL to Analyze the AdventureWorks2019 Database. 
+and create a procedure to show every sales persons monthly sales.
